@@ -1,7 +1,7 @@
 
 # Hola! Soy Alejandro García 👋
 
-![Banner de Reddit Azul Oscuro y Dinámico](https://github.com/alejandrogarciatech/alejandrogarciatech/assets/118226505/e0df1d97-5be6-4389-b2c8-544a551206a0)
+![Banner readme github](https://github.com/alejandrogarciatech/alejandrogarciatech/assets/118226505/6048ddf4-bb5a-47d4-8f29-bff5d112dafd)
 
 ## Sobre mí
 
@@ -23,13 +23,10 @@ Ahora, movido por la insaciable curiosidad y el interés tecnológico, amplio la
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-🧠 I'm currently learning...
+### 🧠 Actualmente estoy aprendiendo...
 
 Angular, MongoDB, AWS
 
 ## 🔗 Contacto
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrogarciatech/)
-
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrogarcia.tech@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrogarciatech/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandrogarcia.tech@gmail.com)
