@@ -1,7 +1,7 @@
 
 # Hola! Soy Alejandro García 👋
 
-![Banner](https://www.canva.com/design/DAGJUimj5Yw/l-flWbroIXL8TASqTNTrtg/watch?utm_content=DAGJUimj5Yw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Banner de Reddit Azul Oscuro y Dinámico](https://github.com/alejandrogarciatech/alejandrogarciatech/assets/118226505/e0df1d97-5be6-4389-b2c8-544a551206a0)
 
 ## Sobre mí
 
