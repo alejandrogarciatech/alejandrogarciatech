@@ -1,7 +1,7 @@
 
 # Hola! Soy Alejandro García 👋
 
-![Banner](https://github.com/tuusuario/tu-repositorio/raw/main/banner.gif)
+![Banner](https://www.canva.com/design/DAGJUimj5Yw/l-flWbroIXL8TASqTNTrtg/watch?utm_content=DAGJUimj5Yw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Sobre mí
 
