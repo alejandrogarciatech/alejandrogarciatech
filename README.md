@@ -1,7 +1,7 @@
 
 # Hola! Soy Alejandro García 👋
 
-![Banner readme github](https://github.com/alejandrogarciatech/alejandrogarciatech/assets/118226505/6048ddf4-bb5a-47d4-8f29-bff5d112dafd)
+![Banner README GitHub](https://github.com/alejandrogarciatech/alejandrogarciatech/assets/118226505/982c8a0d-a242-48fe-a21a-06bc62d27f26)
 
 ## Sobre mí
 
